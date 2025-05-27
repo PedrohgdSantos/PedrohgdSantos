@@ -6,11 +6,9 @@
 - 🌱 I’m currently learning Computer Science.
 
 
-<div>
-<a href="https://github.com/PedrohgdSantos">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&langs_count=7&theme=gotham"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos)](https://github.com/PedrohgdSantos/github-readme-stats)
+
 
 
 ## I'm studying
