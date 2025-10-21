@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on Dealer Shop.
 - 🌱 I’m currently learning Information Systems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=vision-friendly-dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&theme=vision-friendly-dark)](https://github.com/PedrohgdSantos/github-readme-stats)
 
 
