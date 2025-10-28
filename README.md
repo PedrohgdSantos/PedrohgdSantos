@@ -33,10 +33,10 @@ Estes cartões são atualizados automaticamente e mostram um pouco da minha ativ
 
 <div align="center">
   <!-- Cartão de Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   
   <!-- Cartão de Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&langs_count=6&theme=dark" alt="Top Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&langs_count=6&theme=dark" alt="Top Linguagens" />
 </div>
 
 ---
@@ -48,9 +48,6 @@ Sinta-se à vontade para entrar em contato ou me seguir nas redes!
 <div align="center">
   <a href="LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <!-- Adicione seu Instagram, Twitter, etc. -->
 </div>
