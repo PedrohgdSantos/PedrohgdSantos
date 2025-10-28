@@ -55,6 +55,6 @@ Sinta-se à vontade para entrar em contato ou me seguir nas redes!
 ---
 
 <div align="center">
-  <!-- Exemplo de contador de visualizações (opcional ) -->
-  <img src="https://profile-counter.glitch.me/PedrohgdSantos/count.svg" alt="Contador de visualizações" />
+  <!-- Contador de Visualizações (Visitor Badge - Mais Estável) -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PedrohgdSantos.PedrohgdSantos" alt="Contador de Visualizações" />
 </div>
