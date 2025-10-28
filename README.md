@@ -46,7 +46,7 @@ Estes cartões são atualizados automaticamente e mostram um pouco da minha ativ
 Sinta-se à vontade para entrar em contato ou me seguir nas redes!
 
 <div align="center">
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-s-b75396298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <!-- Adicione seu Instagram, Twitter, etc. -->
@@ -56,5 +56,5 @@ Sinta-se à vontade para entrar em contato ou me seguir nas redes!
 
 <div align="center">
   <!-- Exemplo de contador de visualizações (opcional ) -->
-  <img src="https://profile-counter.glitch.me/SEU_USERNAME_AQUI/count.svg" alt="Contador de visualizações" />
+  <img src="https://profile-counter.glitch.me/PedrohgdSantos/count.svg" alt="Contador de visualizações" />
 </div>
