@@ -18,8 +18,8 @@ Aqui estão as principais tecnologias que utilizo e estou estudando:
 
 Estes cartões são atualizados automaticamente e mostram um pouco da minha atividade e das linguagens que mais utilizo.
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/PedrohgdSantos/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&theme=dark)](https://github.com/PedrohgdSantos/github-readme-stats)
 
 ## Conecte-se Comigo
 
