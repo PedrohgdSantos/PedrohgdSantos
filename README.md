@@ -5,7 +5,7 @@
 Olá! Sou o Pedro Henrique (ou apenas PH), tenho 19 anos, estou focado em desenvolvimento de software e aprendizado contínuo.
 
 🎓 Atualmente, sou estudante de Sistemas de Informação, buscando aprimorar minhas habilidades e conhecimentos.
-💼 Estou trabalhando no projeto Dealer Shop, aplicando e desenvolvendo soluções práticas.
+💼 Estou trabalhando no projeto Eletrônica Santana , aplicando e desenvolvendo soluções práticas.
 💡 Meu foco está em construir aplicações robustas e eficientes, explorando o potencial de diversas tecnologias.
 
 ## Tecnologias e Ferramentas
