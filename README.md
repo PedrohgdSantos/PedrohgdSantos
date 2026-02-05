@@ -2,11 +2,12 @@
 
 ## Sobre Mim !!
 
-Olá! Sou o Pedro Henrique (ou apenas PH), tenho 19 anos, estou focado em desenvolvimento de software e aprendizado contínuo.
+Olá! Sou o Pedro Henrique (ou apenas PH), tenho 19 anos, e estou focado em me aprofundar no desenvolvimento de software.
 
-🎓 Atualmente, sou estudante de Sistemas de Informação, buscando aprimorar minhas habilidades e conhecimentos.
-💼 Estou trabalhando no projeto Eletrônica Santana , aplicando e desenvolvendo soluções práticas.
-💡 Meu foco está em construir aplicações robustas e eficientes, explorando o potencial de diversas tecnologias.
+🎓 Atualmente, sou estudante de Sistemas de Informação, buscando aprimorar minhas habilidades e conhecimentos. 
+  💼 Estou trabalhando na Eletrônica Santana, aplicando e desenvolvendo soluções práticas, com ênfase em TypeScript com o Node.JS juntamente com MySQL. 
+    💡 Meu foco está em construir aplicações robustas e eficientes, explorando o potencial de diversas tecnologias.
+ 
 
 ## Tecnologias e Ferramentas
 
