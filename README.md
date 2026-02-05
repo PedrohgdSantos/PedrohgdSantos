@@ -19,7 +19,3 @@ Aqui estão as principais tecnologias que utilizo e estou estudando:
 Sinta-se à vontade para entrar em contato ou me seguir nas redes!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohgd-santos/)
-
-## Visitantes
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PedrohgdSantos.PedrohgdSantos)
