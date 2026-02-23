@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1> <h3 align="center">Desenvolvedor de Software | Estudante de Sistemas de Informação</h3>
+</div> <h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1> <h3 align="center">Desenvolvedor de Software | Estudante de Sistemas de Informação</h3>
 
 
 
@@ -15,14 +15,6 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
 
 
 
-
-🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,mysql,react,nodejs" />
-  </a>
-</p>
 
 🛠️ Tecnologias e Ferramentas
 
@@ -54,6 +46,10 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
 <table align="center">
 <tr>
     <td align="center">
+      <a href="https://github.com/PedrohgdSantos/Fenix-Foods-Forms">
+        <strong>Fenix-Foods-Forms</strong>
+      </a>
+      <p>Formulário de satisfação para clientes da Fenix Foods, desenvolvido para coletar feedback de forma eficiente.</p>
     </td>
   </tr>
   <!-- Adicione mais projetos aqui -->
