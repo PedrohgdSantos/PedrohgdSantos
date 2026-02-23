@@ -31,20 +31,8 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
 
 📊 Estatísticas do GitHub
 
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&theme=dracula" alt="Top Linguagens"/>
 
 
 
@@ -80,13 +68,7 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
 
 
 
-
-
-
-
-
-
-
-
-
+<p align="center">
+<img src="https://profile-counter.glitch.me/PedrohgdSantos/count.svg" alt="Contador de Visitantes" />
+</p>
 
