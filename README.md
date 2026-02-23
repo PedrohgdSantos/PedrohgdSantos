@@ -24,6 +24,14 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
   </a>
 </p>
 
+🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,mysql,react,nodejs" />
+  </a>
+</p>
+
 
 
 
