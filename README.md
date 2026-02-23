@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1> <h3 align="center">Desenvolvedor de Software | Estudante de Sistemas de Informação</h3>
+<h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1> <h3 align="center">Desenvolvedor Back-End | Estudante de Sistemas de Informação</h3>
 
 
 
 
 🚀 Sobre Mim
 
-Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado contínuo. Atualmente, curso Sistemas de Informação e busco constantemente aprimorar minhas habilidades para criar soluções inovadoras e eficientes.
+Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado contínuo. Atualmente, curso Sistemas de Informação e busco constantemente aprimorar minhas habilidades para criar soluções inovadoras e eficientes.
 
 •
 💼 Colaborando na Eletrônica Santana, onde aplico e desenvolvo soluções práticas com ênfase em TypeScript, Node.js e MySQL.
