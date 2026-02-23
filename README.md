@@ -46,7 +46,6 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
 <table align="center">
 <tr>
     <td align="center">
-      <p>Formulário de satisfação para clientes da Fenix Foods, desenvolvido para coletar feedback de forma eficiente.</p>
     </td>
   </tr>
   <!-- Adicione mais projetos aqui -->
