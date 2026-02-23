@@ -1,23 +1,77 @@
-# Bem-vindo ao meu perfil! 👋
+<div align="center">
+<img src="https://i.imgur.com/6v2e2wT.png" alt="Banner" width="800"/>
+</div> <h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1> <h3 align="center">Desenvolvedor de Software | Estudante de Sistemas de Informação</h3>
 
-## Sobre Mim !!
 
-Olá! Sou o Pedro Henrique (ou apenas PH), tenho 19 anos, e estou focado em me aprofundar no desenvolvimento de software.
 
-🎓 Atualmente, sou estudante de Sistemas de Informação, buscando aprimorar minhas habilidades e conhecimentos. 
 
-  💼 Estou trabalhando na Eletrônica Santana, aplicando e desenvolvendo soluções práticas, com ênfase em TypeScript com o Node.JS juntamente com MySQL. 
-    💡 Meu foco está em construir aplicações robustas e eficientes, explorando o potencial de diversas tecnologias.
- 
+🚀 Sobre Mim
 
-## Tecnologias e Ferramentas
+Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado contínuo. Atualmente, curso Sistemas de Informação e busco constantemente aprimorar minhas habilidades para criar soluções inovadoras e eficientes.
 
-Aqui estão as principais tecnologias que utilizo e estou estudando:
+•
+💼 Colaborando na Eletrônica Santana, onde aplico e desenvolvo soluções práticas com ênfase em TypeScript, Node.js e MySQL.
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+•
+💡 Meu objetivo é construir aplicações robustas, eficientes e escaláveis, explorando o potencial de diversas tecnologias.
 
-## Conecte-se Comigo
 
-Sinta-se à vontade para entrar em contato ou me seguir nas redes!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-s-b75396298/)
+
+🛠️ Tecnologias e Ferramentas
+
+<p align="center">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,ts,mysql,react,nodejs" />
+  </a>
+</p>
+
+
+
+
+📊 Estatísticas do GitHub
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&theme=dracula"/>
+  </a>
+</p>
+
+
+
+
+💡 Projetos em Destaque
+
+<table align="center">
+<tr>
+    <td align="center">
+      <a href="https://github.com/PedrohgdSantos/Fenix-Foods-Forms">
+        <strong>Fenix-Foods-Forms</strong>
+      </a>
+      <p>Formulário de satisfação para clientes da Fenix Foods, desenvolvido para coletar feedback de forma eficiente.</p>
+    </td>
+  </tr>
+  <!-- Adicione mais projetos aqui -->
+</table>
+
+
+
+
+🤝 Conecte-se Comigo
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pedro-henrique-s-b75396298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+
+
+<p align="center">
+<img src="https://profile-counter.glitch.me/PedrohgdSantos/count.svg" alt="Contador de Visitantes" />
+</p>
+
