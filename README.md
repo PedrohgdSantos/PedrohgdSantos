@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://i.imgur.com/6v2e2wT.png" alt="Banner" width="800"/>
-</div> <h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1> <h3 align="center">Desenvolvedor de Software | Estudante de Sistemas de Informação</h3>
+<h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1> <h3 align="center">Desenvolvedor de Software | Estudante de Sistemas de Informação</h3>
 
 
 
@@ -48,9 +46,6 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
 <table align="center">
 <tr>
     <td align="center">
-      <a href="https://github.com/PedrohgdSantos/Fenix-Foods-Forms">
-        <strong>Fenix-Foods-Forms</strong>
-      </a>
       <p>Formulário de satisfação para clientes da Fenix Foods, desenvolvido para coletar feedback de forma eficiente.</p>
     </td>
   </tr>
