@@ -1,3 +1,5 @@
+<div align="center">
+<img src="https://i.imgur.com/6v2e2wT.png" alt="Banner" width="800"/>
 </div> <h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1> <h3 align="center">Desenvolvedor de Software | Estudante de Sistemas de Informação</h3>
 
 
@@ -29,14 +31,23 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
 
 📊 Estatísticas do GitHub
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&theme=dracula"/>
-  </a>
-</p>
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 
 
@@ -46,6 +57,10 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
 <table align="center">
 <tr>
     <td align="center">
+      <a href="https://github.com/PedrohgdSantos/Fenix-Foods-Forms">
+        <strong>Fenix-Foods-Forms</strong>
+      </a>
+      <p>Formulário de satisfação para clientes da Fenix Foods, desenvolvido para coletar feedback de forma eficiente.</p>
     </td>
   </tr>
   <!-- Adicione mais projetos aqui -->
@@ -65,7 +80,13 @@ Sou um entusiasta de 19 anos focado em desenvolvimento de software e aprendizado
 
 
 
-<p align="center">
-<img src="https://profile-counter.glitch.me/PedrohgdSantos/count.svg" alt="Contador de Visitantes" />
-</p>
+
+
+
+
+
+
+
+
+
 
