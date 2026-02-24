@@ -29,7 +29,7 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 
 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&theme=dracula" alt="Top Linguagens"/>
 
 
