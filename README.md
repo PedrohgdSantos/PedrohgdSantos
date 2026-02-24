@@ -26,29 +26,6 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 
 
 
-
-📊 Estatísticas do GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=transparent)
-
-
-
-
-
-
-
-💡 Projetos em Destaque
-
-<table align="center">
-<tr>
-  </tr>
-  <!-- Adicione mais projetos aqui -->
-</table>
-
-
-
-
 🤝 Conecte-se Comigo
 
 <p align="center">
@@ -56,11 +33,3 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-
-
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/PedrohgdSantos/count.svg" alt="Contador de Visitantes" />
-</p>
-
