@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou o Pedro Henrique! 👋</h1> <h3 align="center">Desenvolvedor Back-End | Estudante de Sistemas de Informação</h3>
 
 
-
 🚀 Sobre Mim
 
 Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado contínuo. Atualmente, curso Sistemas de Informação e busco constantemente aprimorar minhas habilidades para criar soluções inovadoras e eficientes.
@@ -13,8 +12,6 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 💡 Meu objetivo é construir aplicações robustas, eficientes e escaláveis, explorando o potencial de diversas tecnologias.
 
 
-
-
 🛠️ Tecnologias e Ferramentas
 
 <p align="center">
@@ -22,7 +19,6 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
     <img src="https://skillicons.dev/icons?i=java,js,ts,mysql,react,nodejs" />
   </a>
 </p>
-
 
 
 🤝 Conecte-se Comigo
