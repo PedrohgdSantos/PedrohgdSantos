@@ -2,7 +2,6 @@
 
 
 
-
 🚀 Sobre Mim
 
 Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado contínuo. Atualmente, curso Sistemas de Informação e busco constantemente aprimorar minhas habilidades para criar soluções inovadoras e eficientes.
