@@ -6,9 +6,6 @@
 Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado contínuo. Atualmente, curso Sistemas de Informação e busco constantemente aprimorar minhas habilidades para criar soluções inovadoras e eficientes.
 
 •
-💼 Colaborando na Eletrônica Santana, onde aplico e desenvolvo soluções práticas com ênfase em TypeScript, Node.js e MySQL.
-
-•
 💡 Meu objetivo é construir aplicações robustas, eficientes e escaláveis, explorando o potencial de diversas tecnologias.
 
 <h3 align="center">Tecnologias de Foco</h3>
