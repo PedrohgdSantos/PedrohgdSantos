@@ -11,17 +11,16 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 •
 💡 Meu objetivo é construir aplicações robustas, eficientes e escaláveis, explorando o potencial de diversas tecnologias.
 
+<div align="center">
 
-🛠️ Tecnologias e Ferramentas
+  ### Tecnologias de Foco
+  [![My Skills](https://skillicons.dev/icons?i=java,sql&theme=light)](https://skillicons.dev)
 
-<h3 align="center">Tecnologias de Foco</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,sql&theme=light" />
-</p>
+  <br/>
 
-<h3 align="center">Conecte-se comigo</h3>
-<p align="center">
-  <a href="SEU_LINK_AQUI" target="_blank">
+  ### Conecte-se comigo
+  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
   </a>
-</p>
+
+</div>
