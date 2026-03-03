@@ -13,7 +13,7 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 
 <h3 align="center">Tecnologias de Foco</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres&theme=light" alt="Java e SQL">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres" alt="Java e SQL">
 </p>
 
 <h3 align="center">Conecte-se comigo</h3>
