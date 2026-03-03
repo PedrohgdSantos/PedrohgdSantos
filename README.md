@@ -14,10 +14,8 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 
 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-  </a>
-</p>
+### Minhas Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=java,sql&theme=light)](https://skillicons.dev)
 
 
 🤝 Conecte-se Comigo
