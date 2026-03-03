@@ -18,7 +18,7 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 
 <h3 align="center">Conecte-se comigo</h3>
 <p align="center">
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/pedro-henrique-s-b75396298/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
 </p>
