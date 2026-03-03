@@ -14,15 +14,14 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 
 🛠️ Tecnologias e Ferramentas
 
-### Minhas Tecnologias
+<h3 align="center">Tecnologias de Foco</h3>
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=java,sql&theme=light)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=java,sql&theme=light" />
 </p>
 
-🤝 Conecte-se Comigo
-
+<h3 align="center">Conecte-se comigo</h3>
 <p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,sql&theme=light" />
+  <a href="SEU_LINK_AQUI" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
   </a>
 </p>
