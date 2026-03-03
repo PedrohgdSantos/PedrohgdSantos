@@ -15,13 +15,14 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 🛠️ Tecnologias e Ferramentas
 
 ### Minhas Tecnologias
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=java,sql&theme=light)](https://skillicons.dev)
-
+</p>
 
 🤝 Conecte-se Comigo
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pedro-henrique-s-b75396298/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,sql&theme=light" />
   </a>
 </p>
