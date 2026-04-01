@@ -50,7 +50,7 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 <h3 align="center">📫 Vamos nos conectar?</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-gomes-dos-santos/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-s-b75396298" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:phgdsantoss@gmail.com">
