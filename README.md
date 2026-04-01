@@ -1,8 +1,5 @@
 # Olá, eu sou o Pedro Henrique! 👋
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=200&section=header&text=Pedro%20Henrique&fontSize=90&animation=fadeIn&fontAlignY=38" />
-</div>
 
 ### 🚀 Desenvolvedor Back-End | Estudante de Sistemas de Informação
 
@@ -37,11 +34,6 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedrohgdSantos&theme=tokyonight"/>
 </div>
 
@@ -61,7 +53,7 @@ Sou um entusiasta de 20 anos focado em desenvolvimento de software e aprendizado
   <a href="https://www.linkedin.com/in/pedro-henrique-gomes-dos-santos/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pedrohgd.santos@gmail.com">
+  <a href="mailto:phgdsantoss@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
