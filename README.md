@@ -41,15 +41,6 @@ Tenho 20 anos e sou apaixonado por desenvolvimento de software e aprendizado con
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedrohgdSantos&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=9D4EDD&icon_color=C77DFF&text_color=C9D1D9&bg_color=0D1117" alt="Estatísticas do GitHub" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohgdSantos&layout=compact&hide_border=true&langs_count=8&title_color=9D4EDD&text_color=C9D1D9&bg_color=0D1117" alt="Linguagens mais usadas" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=PedrohgdSantos&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9D4EDD&sideLabels=FFFFFF&dates=8B949E" alt="Sequência de contribuições" />
 
 </div>
