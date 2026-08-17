@@ -1,84 +1,97 @@
 <div align="center">
 
-# Olá, eu sou o Pedro Henrique! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:312e81&height=220&section=header&text=Pedro%20Henrique&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Back-End%20%7C%20Java%20%C2%B7%20Angular%20%C2%B7%20MySQL&descAlignY=58&descSize=18" width="100%"/>
 
-### 🚀 Desenvolvedor Back-End | Estudante de Sistemas de Informação
+<a href="https://github.com/PedrohgdSantos">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Sistema+de+Informa%C3%A7%C3%A3o+%40+Impacta;Focado+em+Java+%2B+Angular+%2B+MySQL;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-Tenho 20 anos e sou apaixonado por desenvolvimento de software e aprendizado contínuo.
-Atualmente curso **Sistemas de Informação** e foco meus estudos em **Java, Angular e MySQL**,
-buscando sempre construir soluções eficientes e bem estruturadas.
+<br/>
 
-</div>
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Linguagens e Frameworks**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Banco de Dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Ferramentas e Outros**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
----
-
-### 💼 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologia |
-|---|---|---|
-| [**Calculadora-Simples**](https://github.com/PedrohgdSantos/Calculadora-Simples) | Calculadora desenvolvida em Java com interface gráfica (Swing) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| [**OrbitSchedule**](https://github.com/PedrohgdSantos/OrbitSchedule) | Projeto de agendamento/organização desenvolvido em Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=PedrohgdSantos&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.herokuapp.com/api/top-langs/?username=PedrohgdSantos&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-s-b75396298)
+[![Gmail](https://img.shields.io/badge/Gmail-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phgdsantoss@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PedrohgdSantos)
 
 </div>
 
----
+<br/>
 
-### 🐍 Contribuições (Snake Animation)
+## 👨‍💻 Sobre mim
+
+```yaml
+nome: "Pedro Henrique"
+idade: 20
+formacao: "Sistemas de Informação - Impacta Tecnologia (2029)"
+cargo_atual: "Auxiliar de TI - Grupo Eletrônica Santana"
+foco_atual: ["Java", "Angular", "MySQL"]
+objetivo: "Me aprimorar como desenvolvedor back-end"
+```
+
+<br/>
+
+## 🧰 Stack principal
 
 <div align="center">
 
-[![GitHub Snake](https://github.com/PedrohgdSantos/PedrohgdSantos/raw/output/github-contribution-grid-snake.svg)](https://github.com/PedrohgdSantos/PedrohgdSantos/blob/output/github-contribution-grid-snake.svg)
+<img src="https://skillicons.dev/icons?i=java,angular,js,mysql,git,github&theme=dark" />
 
 </div>
 
----
+<br/>
 
-### 📫 Vamos nos conectar?
+## 💼 Projetos em destaque
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-s-b75396298)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phgdsantoss@gmail.com)
+<table>
+<tr>
+<td width="50%">
+
+### 🖩 [Calculadora-Simples](https://github.com/PedrohgdSantos/Calculadora-Simples)
+Calculadora com interface gráfica desenvolvida em Java (Swing)
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🗓️ [OrbitSchedule](https://github.com/PedrohgdSantos/OrbitSchedule)
+Projeto de agendamento/organização desenvolvido em Python
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedrohgdSantos&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/PedrohgdSantos/PedrohgdSantos/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:6366f1&height=120&section=footer" width="100%"/>
 
 </div>
