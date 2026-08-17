@@ -1,51 +1,66 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=180&section=header&text=Pedro%20Henrique&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Back-End%20%7C%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descSize=18&descAlignY=58" alt="header" />
+# Olá, eu sou o Pedro Henrique! 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Henrique!+%F0%9F%91%8B;Apaixonado+por+desenvolvimento+back-end;Java+%7C+JavaScript+%7C+MySQL;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+### 🚀 Desenvolvedor Back-End | Estudante de Sistemas de Informação
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=PedrohgdSantos&label=Visitas+no+perfil&color=9d4edd&style=flat" alt="Contador de visitas" />
-<img src="https://img.shields.io/github/followers/PedrohgdSantos?label=Seguidores&style=flat&color=9d4edd&logo=github" alt="Seguidores" />
+Tenho 20 anos e sou apaixonado por desenvolvimento de software e aprendizado contínuo.
+Atualmente curso **Sistemas de Informação** e foco meus estudos em **Java, Angular e MySQL**,
+buscando sempre construir soluções eficientes e bem estruturadas.
 
 </div>
-
----
-
-### 🚀 Sobre mim
-
-Tenho 20 anos e sou apaixonado por desenvolvimento de software e aprendizado contínuo. Atualmente curso **Sistemas de Informação** e foco em **back-end**, sempre buscando aprimorar minhas habilidades para criar soluções eficientes e bem estruturadas.
-
-- 🌍 São Paulo, Brasil
-- 🎯 Focado em back-end e em evoluir como desenvolvedor
-- 🌱 Aprendendo e praticando todo dia
-- 💬 Pergunte-me sobre **Java, JavaScript e MySQL**
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
+**Linguagens e Frameworks**
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Banco de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ferramentas e Outros**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+### 💼 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologia |
+|---|---|---|
+| [**Calculadora-Simples**](https://github.com/PedrohgdSantos/Calculadora-Simples) | Calculadora desenvolvida em Java com interface gráfica (Swing) | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [**OrbitSchedule**](https://github.com/PedrohgdSantos/OrbitSchedule) | Projeto de agendamento/organização desenvolvido em Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+---
+
+### 📊 Estatísticas do GitHub
+
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=PedrohgdSantos&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117)
 
-![Git](https://img.shields.io/badge/Git-7B2CBF?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-9D4EDD?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-7B2CBF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Top Languages](https://github-readme-stats.herokuapp.com/api/top-langs/?username=PedrohgdSantos&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&layout=compact)
 
 </div>
 
 ---
 
-### 📈 Atividade
+### 🐍 Contribuições (Snake Animation)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedrohgdSantos&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=FFFFFF&area=true&area_color=5A189A&hide_border=true" alt="Gráfico de atividade" />
+[![GitHub Snake](https://github.com/PedrohgdSantos/PedrohgdSantos/raw/output/github-contribution-grid-snake.svg)](https://github.com/PedrohgdSantos/PedrohgdSantos/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -55,8 +70,8 @@ Tenho 20 anos e sou apaixonado por desenvolvimento de software e aprendizado con
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-s-b75396298)
-[![Gmail](https://img.shields.io/badge/Gmail-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phgdsantoss@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-s-b75396298)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phgdsantoss@gmail.com)
 
 </div>
 
@@ -64,8 +79,6 @@ Tenho 20 anos e sou apaixonado por desenvolvimento de software e aprendizado con
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Frase aleatória" />
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer" alt="footer" />
