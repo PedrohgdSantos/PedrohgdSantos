@@ -1,7 +1,5 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/VG3xxeOUuARcgTIGn2/giphy.gif" width="130" style="border-radius: 50%;" />
-  
   <h1> Fala, galera! 👋 Sou o Pedro Henrique </h1>
   <p><b> Desenvolvedor | Java • TypeScript • Python </b></p>
   
